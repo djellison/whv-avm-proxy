@@ -1,3 +1,5 @@
 name = "whv-avm-proxy"
 main = "whats-your-home-worth/whv-avm-proxy-worker.js"
 compatibility_date = "2026-09-01"
+
+# trigger build: verify secret injection via wrangler secret put
